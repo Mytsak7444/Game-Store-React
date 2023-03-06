@@ -12,17 +12,11 @@ function App() {
       <div className="App">
         <Header />
         <Routes>
-          <Route
-            path="https://mytsak7444.github.io/Game-Store-React/"
-            element={<HomePage />}
-          />
-          <Route path="https://mytsak7444.github.io/Game-Store-React/app">
+          <Route path="/" element={<HomePage />} />
+          <Route path="/app">
             <Route path=":title" element={<GamePage />} />
           </Route>
-          <Route
-            path="https://mytsak7444.github.io/Game-Store-React/order"
-            element={<OrderPage />}
-          />
+          <Route path="/order" element={<OrderPage />} />
         </Routes>
       </div>
     </Provider>
