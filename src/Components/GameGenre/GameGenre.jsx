@@ -2,7 +2,7 @@ import React from "react";
 import s from "./gameGenre.module.css";
 
 function GameGenre({ genre }) {
-  return <div className={s.game__genre}>{genre}</div>;
+  return <span className={s.game__genre}>{genre}</span>;
 }
 
 export default GameGenre;
