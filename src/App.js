@@ -20,7 +20,7 @@ function App() {
             <Route path=":title" element={<GamePage />} />
           </Route>
           <Route
-            path="https://mytsak7444.github.io/Game-Store-React/gitorder"
+            path="https://mytsak7444.github.io/Game-Store-React/order"
             element={<OrderPage />}
           />
         </Routes>
