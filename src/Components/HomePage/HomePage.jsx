@@ -4,7 +4,8 @@ import s from "./homePage.module.css";
 
 const GAMES = [
   {
-    image: "/public/game-img/forza_5.jpeg",
+    image:
+      "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1677534139",
     title: "Forza Horizon 5",
     genres: ["Гонки", "Симулятор", "Відкритий світ"],
     price: 695,
