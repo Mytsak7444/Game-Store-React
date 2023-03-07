@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Game-Store-React/static/css/main.35ca9a15.css",
-    "main.js": "/Game-Store-React/static/js/main.3119adfd.js",
+    "main.js": "/Game-Store-React/static/js/main.c0643d67.js",
     "static/js/787.41265a80.chunk.js": "/Game-Store-React/static/js/787.41265a80.chunk.js",
     "index.html": "/Game-Store-React/index.html",
     "main.35ca9a15.css.map": "/Game-Store-React/static/css/main.35ca9a15.css.map",
-    "main.3119adfd.js.map": "/Game-Store-React/static/js/main.3119adfd.js.map",
+    "main.c0643d67.js.map": "/Game-Store-React/static/js/main.c0643d67.js.map",
     "787.41265a80.chunk.js.map": "/Game-Store-React/static/js/787.41265a80.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35ca9a15.css",
-    "static/js/main.3119adfd.js"
+    "static/js/main.c0643d67.js"
   ]
 }
