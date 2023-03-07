@@ -13,7 +13,7 @@ function GameItem({ game }) {
 
   const handleClick = () => {
     dispatch(setCurrentGame(game));
-    navigate(`app/${game.title}`);
+    navigate(`/Game-Store-React/app/${game.title}`);
   };
 
   return (

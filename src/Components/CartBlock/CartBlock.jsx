@@ -15,7 +15,7 @@ function CartBlock() {
 
   const handleClick = useCallback(() => {
     setIsCartMenuIsVisible(false);
-    navigate("/order");
+    navigate("/Game-Store-React/order");
   }, [navigate]);
 
   return (

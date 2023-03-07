@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className={s.header}>
       <div className={s.wrapper}>
-        <Link to="/" className={s.header__title}>
+        <Link to="/Game-Store-React/" className={s.header__title}>
           Game Store
         </Link>
       </div>
